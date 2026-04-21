@@ -2,8 +2,6 @@
 
 https://aaditya-flax.vercel.app/
 
-CS student at NC State (Computer Engineering, 2027). Interested in systems programming, quantitative finance, and building things that ship.
-
 ### Featured
 
 - **[Contrarian Options Alpha Engine](https://github.com/AadityaMishra1/Contrarian-Options-Alpha-Engine)** — C++20/Python options trading engine. Lock-free ring buffer at 29M msg/sec, pybind11 bridge, IBKR integration. Backtested Sharpe 2.75 on real SPY options data with statistical verification.
